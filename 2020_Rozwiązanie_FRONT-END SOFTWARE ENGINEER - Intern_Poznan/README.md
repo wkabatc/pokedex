@@ -10,8 +10,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install before running the app
 
-[Favorite code editor (I use VS)](https://code.visualstudio.com/)
-[Node 12.16](https://nodejs.org/en/)
+* [Favorite code editor (I use VS)](https://code.visualstudio.com/)
+* [Node 12.16](https://nodejs.org/en/)
 
 ### Installing
 
