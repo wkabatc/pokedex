@@ -21,7 +21,7 @@ Steps you need to follow to run the application
 
 2. Unzip folder, and open it in editor.
 
-3. Enter the command in the terminal:
+3. Enter the command in the terminal (Be sure that You are in the folder with start.js and package.json file. You can extract files without doubling the folders at the beginning of the path):
 
 ```
 npm start
