@@ -1,6 +1,6 @@
 # POKEDEX
 
-This is my pokedex made as part of recruitment tasks for an internship.
+This is my pokedex made as part of recruitment tasks for an internship in Poznań.
 
 ## Getting Started
 
